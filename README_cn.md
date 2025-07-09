@@ -4,11 +4,4 @@
   项目成果将为机器人、大语言模型以及视觉导航的融合发展提供一定的参考。
   以下是该机器人的部分功能框架展示
 
-  
-![image](https://github.com/user-attachments/assets/94f7538e-a195-4cda-9864-126476e42a66)
-![image](https://github.com/user-attachments/assets/1bd7fcdf-a98e-4a96-a5df-1c40bf573204)
-![image](https://github.com/user-attachments/assets/03133343-d2e4-4360-8ff1-ea8fa363b348)
-![image](https://github.com/user-attachments/assets/49460b9a-bf17-4032-9669-7a80fb003d4f)
-![image](https://github.com/user-attachments/assets/2baf3d09-4eee-4508-b360-e9f8d54e579f)
-![image](https://github.com/user-attachments/assets/ec6cc564-5fb4-4abe-9e35-719b28ef231c)
-![image](https://github.com/user-attachments/assets/90e022c6-64e9-4fec-8e3c-0adb88f7fa9f)
+
