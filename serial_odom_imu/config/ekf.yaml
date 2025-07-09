@@ -1,0 +1,15 @@
+ekf_filter_node:  # 必须与启动时指定的节点名一致
+  ros__parameters:
+    frequency: 20.0
+    sensor_timeout: 0.1
+    two_d_mode: true
+    odom0: wheel_odom
+    odom0_config: [true,true,false, false,false,true, false,false,false]
+    imu0: imu/data_raw
+    imu0_config: [false,false,false, true,true,true, false,false,false]
+    imu0_differential: false
+    imu0_queue_size: 50
+    map_frame: map
+    odom_frame: odom
+    base_link_frame: base_link
+    world_frame: odom
